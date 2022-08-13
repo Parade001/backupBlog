@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Python数值类型与运算</title>
+      <link href="/2022/08/1310145.html"/>
+      <url>/2022/08/1310145.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h5 id="整数"><a href="#整数" class="headerlink" title="整数"></a>整数</h5><p>常被称为整型或整数类型,不包含小数点的数字.</p><ul><li>十进制： 0 、123、-45</li><li>二进制：0b1101、0B1100</li><li>八进制：0o17、0O777</li><li>十六进制: 0 x ff、0 x 123456789ABCDEF<ul><li>布尔类为整数的子类</li></ul></li></ul><h5 id="浮点数（float-实数）"><a href="#浮点数（float-实数）" class="headerlink" title="浮点数（float, 实数）"></a>浮点数（float, 实数）</h5><p>十进制表示<br>由整数部分、小数点与小数部分组成</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 数值类型 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>V-for 和 V-if 优先级</title>
       <link href="/2022/08/1244728.html"/>
       <url>/2022/08/1244728.html</url>
